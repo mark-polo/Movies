@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="add_btn">add</string>
+    <string name="gg">gg</string>
+    <string name="film_name">Joker</string>
+    <string name="film_year">2019</string>
+    <string name="film_description">Cool</string>
+    <string name="enter_film_name">Enter film name</string>
+    <string name="search">Search</string>
+    <string name="film_name_info">Film name :</string>
+    <string name="film_year_info">Film year :</string>
+    <string name="hh">hh</string>
+    <string name="director">Director</string>
+    <string name="director_info">Huy Huyovich</string>
+    <string name="enter_name">Enter name</string>
+    <string name="go">Go</string>
+</resources>
